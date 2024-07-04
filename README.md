@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+WE ARE LEARNING OUT HERE 
+
+![716CC795-328E-4A33-AE80-6801099251BA](https://github.com/BitsyBirb/bitsybirb/assets/61567471/a41aeee1-71f3-4de9-9314-bc5374ef3dd3)
