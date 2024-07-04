@@ -1,4 +1,4 @@
-## Hi there 👋
+## wait this is a thing?
 
 <!--
 **BitsyBirb/bitsybirb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-WE ARE LEARNING OUT HERE 
 
 ![6npx5b](https://github.com/BitsyBirb/bitsybirb/assets/61567471/6bf14585-d789-4eaa-bb21-423deffe69f9)
 
