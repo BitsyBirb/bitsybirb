@@ -1,7 +1,6 @@
 ## wait this is a thing?
 
-I don't got much to say. If it's fun, might be doing it.
-Oh well, whatever, never mind.
+If it's fun, I'm probably doing it. Maybe. Potentially.
 
 <!--
 **BitsyBirb/bitsybirb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,3 +19,4 @@ Here are some ideas to get you started:
 
 ![6npx5b](https://github.com/BitsyBirb/bitsybirb/assets/61567471/6bf14585-d789-4eaa-bb21-423deffe69f9)
 
+Oh well, whatever, never mind.
