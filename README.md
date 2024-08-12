@@ -1,5 +1,8 @@
 ## wait this is a thing?
 
+I don't got much to say. If it's fun, might be doing it.
+Oh well, whatever, never mind.
+
 <!--
 **BitsyBirb/bitsybirb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
