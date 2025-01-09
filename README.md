@@ -1,6 +1,6 @@
 ## wait this is a thing?
 
-If it's fun, I'm probably doing it. Maybe. Potentially.
+If it's fun, I'm probably doing it. Not for very long most times, but yeah.
 
 <!--
 **BitsyBirb/bitsybirb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 
 ![6npx5b](https://github.com/BitsyBirb/bitsybirb/assets/61567471/6bf14585-d789-4eaa-bb21-423deffe69f9)
 
-Oh well, whatever, never mind.
+It's not so shrimple anymore. This might be the *root* of our problems nyehehe
+Emoyi 🌱 🦐🦐🦐
