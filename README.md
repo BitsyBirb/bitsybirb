@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![6npx5b](https://github.com/BitsyBirb/bitsybirb/assets/61567471/6bf14585-d789-4eaa-bb21-423deffe69f9)
+![steeeeeeve](https://github.com/user-attachments/assets/b1d54a35-c31d-4b4c-b38c-2e811751171e)
+
+
 
 It's not so shrimple anymore.🦐
