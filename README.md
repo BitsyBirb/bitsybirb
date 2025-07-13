@@ -19,5 +19,4 @@ Here are some ideas to get you started:
 
 ![6npx5b](https://github.com/BitsyBirb/bitsybirb/assets/61567471/6bf14585-d789-4eaa-bb21-423deffe69f9)
 
-It's not so shrimple anymore. This might be the *root* of our problems nyehehe
-Emoyi 🌱 🦐🦐🦐
+It's not so shrimple anymore.🦐
